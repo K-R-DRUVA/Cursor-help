@@ -14,5 +14,6 @@
 3. Save the changes to `storage.json`
 4. Restart Cursor application
 5. The changes should now be applied
+
 *Your Cursor should now be ready to use with the updated configuration*
 **Note:** Use this guide responsibly and in accordance with Cursor's terms of service.
